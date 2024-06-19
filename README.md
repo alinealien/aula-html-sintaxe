@@ -1,10 +1,5 @@
 # Aula Transforma Tech 
-# Desvendando a Semântica: Fundamentos Essenciais do HTML
-
-Olá, esse repositório tem o objetivo educacional. Abordaremos a sintaxe e semântica do HTML :)
-
-# Aula Transforma Tech 
-# Desvendando a Semântica: Fundamentos Essenciais do HTML
+### Desvendando a Semântica: Fundamentos Essenciais do HTML
 
 Olá, esse repositório tem o objetivo educacional. Abordaremos a sintaxe e semântica do HTML :)
 
